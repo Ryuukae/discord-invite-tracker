@@ -8,25 +8,5 @@
     "max_uses": 0,
     "temporary": false,
     "uses": 2
-  },
-  {
-    "code": "VREqPgnH",
-    "inviter_id": 1021232645352460320,
-    "inviter_display_name": "Ryuukae",
-    "channel_id": 1388522012280094772,
-    "created_at": "2025-08-15T03:34:32.763000+00:00",
-    "max_uses": 0,
-    "temporary": false,
-    "uses": 4
-  },
-  {
-    "code": "7wpaZ6FnxQ",
-    "inviter_id": 1021232645352460320,
-    "inviter_display_name": "Ryuukae",
-    "channel_id": 1388522012280094772,
-    "created_at": "2025-08-21T20:01:35.805600",
-    "max_uses": 0,
-    "temporary": false,
-    "uses": 0
   }
 ]
