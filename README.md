@@ -1,2 +1,3 @@
-# discord-invite-tracker
-README.md
+**discord-invite-tracker**
+
+*README.md*
