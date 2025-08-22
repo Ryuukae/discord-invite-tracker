@@ -1,0 +1,56 @@
+{
+  "1021232645352460320": {
+    "username": "ryuukae",
+    "active_invites": {
+      "7wpaZ6FnxQ": 0
+    },
+    "successful_invites": 5,
+    "recruitment_ledger": [
+      {
+        "user_id": "189228603253194752",
+        "username": "laithbleidd",
+        "display_name": "Wolf",
+        "initiation_date": "2025-08-15T21:12:28.560427"
+      },
+      {
+        "user_id": "771521156678287380",
+        "username": "tiglath_datasser",
+        "display_name": "tiglath_datasser",
+        "initiation_date": "2025-08-21T00:48:30.433370"
+      },
+      {
+        "user_id": "406297028134567936",
+        "username": "prushko",
+        "display_name": "Prushka",
+        "initiation_date": "2025-08-16T01:51:56.971879"
+      }
+    ]
+  },
+  "406297028134567936": {
+    "username": "prushko",
+    "active_invites": {},
+    "successful_invites": 0,
+    "recruitment_ledger": []
+  },
+  "189228603253194752": {
+    "username": "laithbleidd",
+    "active_invites": {
+      "HscrMmh3": 2
+    },
+    "successful_invites": 2,
+    "recruitment_ledger": [
+      {
+        "user_id": "405934723790143489",
+        "username": "laughingbull8",
+        "display_name": "Laughing Bull",
+        "initiation_date": "2025-08-16T01:49:34.804862"
+      },
+      {
+        "user_id": "802714242037579788",
+        "username": "ocean1056",
+        "display_name": "Ocean",
+        "initiation_date": "2025-08-16T01:56:21.165732"
+      }
+    ]
+  }
+}
