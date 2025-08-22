@@ -2,7 +2,9 @@
   "1021232645352460320": {
     "username": "ryuukae",
     "display_name": "Ryuukae",
-    "active_invites": {},
+    "active_invites": {
+      "khcpBGPF": 0
+    },
     "successful_invites": 5,
     "recruitment_ledger": [
       {
@@ -36,9 +38,10 @@
     "username": "laithbleidd",
     "display_name": "Wolf",
     "active_invites": {
-      "HscrMmh3": 2
+      "HscrMmh3": 15,
+      "Gkwresev": 3
     },
-    "successful_invites": 2,
+    "successful_invites": 11,
     "recruitment_ledger": [
       {
         "user_id": "405934723790143489",
@@ -51,6 +54,60 @@
         "username": "ocean1056",
         "display_name": "Ocean",
         "initiation_date": "2025-08-16T01:56:21.165732"
+      },
+      {
+        "user_id": "381867272613920770",
+        "username": "peacevschaos",
+        "display_name": "PEACE",
+        "initiation_date": "2025-08-22T17:08:57.417872"
+      },
+      {
+        "user_id": "381867272613920770",
+        "username": "peacevschaos",
+        "display_name": "PEACE",
+        "initiation_date": "2025-08-22T17:10:59.168912"
+      },
+      {
+        "user_id": "665714452649345055",
+        "username": "morisummers",
+        "display_name": "mori summers",
+        "initiation_date": "2025-08-22T17:11:12.008918"
+      },
+      {
+        "user_id": "733156009379364874",
+        "username": ".insatiable.",
+        "display_name": "Insatiable",
+        "initiation_date": "2025-08-22T17:11:37.908044"
+      },
+      {
+        "user_id": "781735974828507136",
+        "username": "macdaddyindy",
+        "display_name": "macdaddyindy",
+        "initiation_date": "2025-08-22T17:12:09.470929"
+      },
+      {
+        "user_id": "570025166130905089",
+        "username": "kitor2548",
+        "display_name": "kitor",
+        "initiation_date": "2025-08-22T17:12:44.448870"
+      },
+      {
+        "user_id": "767122403397992480",
+        "username": "black_viper23",
+        "display_name": "Black Viper",
+        "initiation_date": "2025-08-22T17:13:05.052037"
+      },
+      {
+        "user_id": "423827515077820426",
+        "username": "gothicservant0428",
+        "display_name": "Crazy Mita",
+        "initiation_date": "2025-08-22T17:15:25.493672"
+      },
+      {
+        "user_id": "104724829852213248",
+        "username": "jimreborn",
+        "display_name": "Jimreborn",
+        "initiation_date": "2025-08-22T17:19:37.845385"
       }
     ]
   }
